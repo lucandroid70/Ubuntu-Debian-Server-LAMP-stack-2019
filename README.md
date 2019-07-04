@@ -2,5 +2,7 @@
 AIO server LAMP 2019 with PhpMyAdmin, Nextcloud 
 
 git clone https://github.com/lucandroid70/Ubuntu-Debian-Server-LAMP-stack-2019.git
+
 cd Ubuntu-Debian-Server-LAMP-stack-2019
+
 chmod +x installamp_2019.sh
